@@ -1,0 +1,36 @@
+
+body{
+    background-color:rgba(47, 47, 42, 0.564);
+}
+.titulo{
+    color: rgb(0, 79, 66);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     padding: 15px;
+     text-align: center;
+     
+
+}
+    
+.navbar{
+   background-color: rgb(44, 57, 45);
+   overflow: hidden;
+   box-shadow: 0px 0px 3px #1d4b4f;
+}
+.navbar a{
+    float: left;
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navbar a:hover{
+    background-color: white;
+    color: green;
+}
+.texto{
+    color: black;
+    padding: 16px;
+    border: 6px;
+
+}
